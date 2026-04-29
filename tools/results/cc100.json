@@ -1,0 +1,255 @@
+{
+  "total_articles": 10000,
+  "total_chars": 2496846,
+  "total_sentences": 49431,
+  "avg_article_length": 249.6846,
+  "patterns": {
+    "1_重要性インフレ": {
+      "total_occurrences": 51,
+      "articles_with_match": 51,
+      "article_rate_pct": 0.51,
+      "rate_per_10k_chars": 0.20425769150360093
+    },
+    "2_抽象名詞化": {
+      "total_occurrences": 14,
+      "articles_with_match": 13,
+      "article_rate_pct": 0.13,
+      "rate_per_10k_chars": 0.05607073884412575
+    },
+    "3_することができる": {
+      "total_occurrences": 369,
+      "articles_with_match": 328,
+      "article_rate_pct": 3.2800000000000002,
+      "rate_per_10k_chars": 1.4778644738201716
+    },
+    "4_断定回避": {
+      "total_occurrences": 449,
+      "articles_with_match": 414,
+      "article_rate_pct": 4.14,
+      "rate_per_10k_chars": 1.7982686957866045
+    },
+    "5_枕詞": {
+      "total_occurrences": 1,
+      "articles_with_match": 1,
+      "article_rate_pct": 0.01,
+      "rate_per_10k_chars": 0.0040050527745804105
+    },
+    "6_伝聞逃げ": {
+      "total_occurrences": 137,
+      "articles_with_match": 127,
+      "article_rate_pct": 1.27,
+      "rate_per_10k_chars": 0.5486922301175162
+    },
+    "7_中身のない総括": {
+      "total_occurrences": 39,
+      "articles_with_match": 39,
+      "article_rate_pct": 0.38999999999999996,
+      "rate_per_10k_chars": 0.15619705820863602
+    },
+    "8_機械的接続詞": {
+      "total_occurrences": 0,
+      "articles_with_match": 0,
+      "article_rate_pct": 0.0,
+      "rate_per_10k_chars": 0.0
+    },
+    "9_カタカナビジネス語": {
+      "total_occurrences": 47,
+      "articles_with_match": 41,
+      "article_rate_pct": 0.41000000000000003,
+      "rate_per_10k_chars": 0.1882374804052793
+    },
+    "10_形容過多": {
+      "total_occurrences": 233,
+      "articles_with_match": 209,
+      "article_rate_pct": 2.09,
+      "rate_per_10k_chars": 0.9331772964772356
+    },
+    "11_敬体過多": {
+      "total_occurrences": 96,
+      "articles_with_match": 86,
+      "article_rate_pct": 0.86,
+      "rate_per_10k_chars": 0.3844850663597194
+    },
+    "12_三点列挙": {
+      "total_occurrences": 112,
+      "articles_with_match": 108,
+      "article_rate_pct": 1.08,
+      "rate_per_10k_chars": 0.448565910753006
+    },
+    "13_文末リズム単調_です連発": {
+      "total_occurrences": 185,
+      "articles_with_match": 184,
+      "article_rate_pct": 1.8399999999999999,
+      "rate_per_10k_chars": 0.740934763297376
+    },
+    "14_メタ表現": {
+      "total_occurrences": 4,
+      "articles_with_match": 4,
+      "article_rate_pct": 0.04,
+      "rate_per_10k_chars": 0.016020211098321642
+    },
+    "15_両論併記の毒抜き": {
+      "total_occurrences": 12,
+      "articles_with_match": 12,
+      "article_rate_pct": 0.12,
+      "rate_per_10k_chars": 0.048060633294964926
+    },
+    "16_比喩テンプレ": {
+      "total_occurrences": 3,
+      "articles_with_match": 3,
+      "article_rate_pct": 0.03,
+      "rate_per_10k_chars": 0.012015158323741231
+    },
+    "17_お説教構文": {
+      "total_occurrences": 90,
+      "articles_with_match": 87,
+      "article_rate_pct": 0.8699999999999999,
+      "rate_per_10k_chars": 0.36045474971223695
+    },
+    "18_していきたい型": {
+      "total_occurrences": 30,
+      "articles_with_match": 29,
+      "article_rate_pct": 0.29,
+      "rate_per_10k_chars": 0.12015158323741232
+    },
+    "19_太字濫用": {
+      "total_occurrences": 4,
+      "articles_with_match": 2,
+      "article_rate_pct": 0.02,
+      "rate_per_10k_chars": 0.016020211098321642
+    },
+    "20_インラインヘッダ箇条書き": {
+      "total_occurrences": 0,
+      "articles_with_match": 0,
+      "article_rate_pct": 0.0,
+      "rate_per_10k_chars": 0.0
+    },
+    "21_絵文字機械配置": {
+      "total_occurrences": 1,
+      "articles_with_match": 1,
+      "article_rate_pct": 0.01,
+      "rate_per_10k_chars": 0.0040050527745804105
+    },
+    "22_細切れ見出し": {
+      "total_occurrences": 0,
+      "articles_with_match": 0,
+      "article_rate_pct": 0.0,
+      "rate_per_10k_chars": 0.0
+    },
+    "24_偽範囲": {
+      "total_occurrences": 26,
+      "articles_with_match": 25,
+      "article_rate_pct": 0.25,
+      "rate_per_10k_chars": 0.10413137213909068
+    },
+    "25_主語省略受動態": {
+      "total_occurrences": 25,
+      "articles_with_match": 25,
+      "article_rate_pct": 0.25,
+      "rate_per_10k_chars": 0.10012631936451026
+    },
+    "26_チャットボット痕跡": {
+      "total_occurrences": 2,
+      "articles_with_match": 2,
+      "article_rate_pct": 0.02,
+      "rate_per_10k_chars": 0.008010105549160821
+    },
+    "27_媚び過剰肯定": {
+      "total_occurrences": 2,
+      "articles_with_match": 2,
+      "article_rate_pct": 0.02,
+      "rate_per_10k_chars": 0.008010105549160821
+    },
+    "28_知識カットオフ言い訳": {
+      "total_occurrences": 0,
+      "articles_with_match": 0,
+      "article_rate_pct": 0.0,
+      "rate_per_10k_chars": 0.0
+    },
+    "29_権威ぶり構文": {
+      "total_occurrences": 19,
+      "articles_with_match": 19,
+      "article_rate_pct": 0.19,
+      "rate_per_10k_chars": 0.07609600271702781
+    },
+    "30_媒体露出インフレ": {
+      "total_occurrences": 0,
+      "articles_with_match": 0,
+      "article_rate_pct": 0.0,
+      "rate_per_10k_chars": 0.0
+    },
+    "31_課題と展望型": {
+      "total_occurrences": 0,
+      "articles_with_match": 0,
+      "article_rate_pct": 0.0,
+      "rate_per_10k_chars": 0.0
+    },
+    "32_効いた型": {
+      "total_occurrences": 2,
+      "articles_with_match": 2,
+      "article_rate_pct": 0.02,
+      "rate_per_10k_chars": 0.008010105549160821
+    },
+    "33_括弧多用": {
+      "total_occurrences": 2673,
+      "articles_with_match": 1815,
+      "article_rate_pct": 18.15,
+      "rate_per_10k_chars": 10.705506066453438
+    }
+  },
+  "sentence_ends": {
+    "その他": {
+      "count": 13312,
+      "pct": 26.93046873419514
+    },
+    "ます": {
+      "count": 11951,
+      "pct": 24.177135805466204
+    },
+    "です": {
+      "count": 7927,
+      "pct": 16.03649531670409
+    },
+    "ました": {
+      "count": 5052,
+      "pct": 10.22030709473812
+    },
+    "た": {
+      "count": 2314,
+      "pct": 4.681272885436265
+    },
+    "ません": {
+      "count": 2249,
+      "pct": 4.549776456070077
+    },
+    "る": {
+      "count": 1697,
+      "pct": 3.433068317452611
+    },
+    "ない": {
+      "count": 1081,
+      "pct": 2.1868867714592057
+    },
+    "ている": {
+      "count": 1002,
+      "pct": 2.027068034229532
+    },
+    "でした": {
+      "count": 950,
+      "pct": 1.9218708907365822
+    },
+    "である": {
+      "count": 865,
+      "pct": 1.7499140215654143
+    },
+    "だ": {
+      "count": 828,
+      "pct": 1.6750622079262003
+    },
+    "だった": {
+      "count": 203,
+      "pct": 0.4106734640205539
+    }
+  },
+  "corpus_name": "cc100_sample.jsonl"
+}
