@@ -169,8 +169,27 @@ v0.3.0 検証のハイライト：
 
 MIT License。詳細は [LICENSE](./LICENSE) を参照。本家 `humanizer` の著作権表示も保持しています。
 
-## 貢献
+## 貢献・サンプル投稿
 
-- 検出すべき日本語 AI パターンの追加・改善 PR は歓迎します。
-- Before / After の実例（実際の AI 出力と望ましい修正例）を添えると採用されやすいです。
-- 既存パターンの改善、特に各モード向けの After 例の追加も歓迎します。
+実 AI 出力と望ましい humanize 結果のペアを投稿してください。新パターン発見・既存パターン精度測定・モード自動推定改善の根拠データになります。
+
+### 投稿方法（2 通り）
+
+| 方法 | 向いている人 | 流れ |
+|---|---|---|
+| **PR** | GitHub に慣れている | `samples/pairs/NNN-<mode>-<short-description>.md` を追加 → PR テンプレートに沿って情報を埋める |
+| **Issue** | GitHub に不慣れ | [Sample submission Issue](https://github.com/DSasakiBusiness/humanizer-ja/issues/new?template=sample-submission.md) テンプレートに貼り付け → メンテナがファイル化 |
+
+詳細は [samples/CONTRIBUTING.md](./samples/CONTRIBUTING.md) を参照。投稿前に必ず以下を確認してください：
+
+- **著作権**：自分の AI 入出力か、自分が書いた文章のみ。第三者ブログのスクレイピングは不可
+- **個人情報**：氏名・社内固有名詞は仮名・架空数値で置換
+- **ライセンス同意**：MIT で収録されることに同意
+
+### 既存サンプル
+
+[samples/pairs/](./samples/pairs/) に v0.3.1 時点で 5 件（各モード 1 件）のシードサンプルあり。
+
+### パターン追加・改善の提案
+
+新しい AI 臭パターンの追加や既存パターン改善は [Pattern suggestion Issue](https://github.com/DSasakiBusiness/humanizer-ja/issues/new?labels=pattern-suggestion&title=%5BPattern%5D+) からどうぞ。Before / After 例があると採用されやすいです。

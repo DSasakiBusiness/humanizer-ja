@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 質問・相談（投稿前のすり合わせ）
+    url: https://github.com/DSasakiBusiness/humanizer-ja/discussions
+    about: 「これは投稿していい？」「このパターンは既存のどれに該当する？」など、軽い質問は Discussions へ
+  - name: パターン追加・改善の提案
+    url: https://github.com/DSasakiBusiness/humanizer-ja/issues/new?labels=pattern-suggestion&title=%5BPattern%5D+
+    about: SKILL.md の新パターン追加や既存パターン改善の提案
